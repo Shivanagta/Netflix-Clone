@@ -40,5 +40,3 @@ Right-click on index.html and open it with your preferred web browser.
 Usage
 Once the project is set up, you can explore the cloned Netflix webpage locally. Experiment with the HTML and CSS files to modify the layout, styles, and content. Use developer tools provided by web browsers to inspect elements, debug, and fine-tune your clone to closely match the original Netflix interface.
 
-Contributing
-Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request. Follow the guidelines in the CONTRIBUTING.md file for contributing to this project.
