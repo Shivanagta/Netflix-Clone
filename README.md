@@ -40,5 +40,5 @@ Right-click on index.html and open it with your preferred web browser.
 Usage
 Once the project is set up, you can explore the cloned Netflix webpage locally. Experiment with the HTML and CSS files to modify the layout, styles, and content. Use developer tools provided by web browsers to inspect elements, debug, and fine-tune your clone to closely match the original Netflix interface.
 
-![Uploading _C__Users_om%20sai%20ram_Desktop_Projects_Netflix_index.html(Samsung Galaxy S8+).png…]()
+
 
